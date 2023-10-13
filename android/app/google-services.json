@@ -1,0 +1,227 @@
+{
+  "project_info": {
+    "project_number": "393917891206",
+    "firebase_url": "https://assinmentluvit-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "assinmentluvit",
+    "storage_bucket": "assinmentluvit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393917891206:android:7e3f0626b6c8bb26830707",
+        "android_client_info": {
+          "package_name": "com.example.assignmentluvit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393917891206-7bvpqdqi0pl6bgmrlfpslv7p26hbfl40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJdC4if018qA1dCZKYu4XxTS5CGGvlOBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393917891206-7bvpqdqi0pl6bgmrlfpslv7p26hbfl40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393917891206-08lae88cq8rdovr7dj77vn6efv8p8e13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.luvitAssesment"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393917891206:android:50e22ce9b245e872830707",
+        "android_client_info": {
+          "package_name": "com.example.hh_assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393917891206-7bvpqdqi0pl6bgmrlfpslv7p26hbfl40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJdC4if018qA1dCZKYu4XxTS5CGGvlOBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393917891206-7bvpqdqi0pl6bgmrlfpslv7p26hbfl40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393917891206-08lae88cq8rdovr7dj77vn6efv8p8e13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.luvitAssesment"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393917891206:android:579c27467d20a699830707",
+        "android_client_info": {
+          "package_name": "com.example.luvi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393917891206-7bvpqdqi0pl6bgmrlfpslv7p26hbfl40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJdC4if018qA1dCZKYu4XxTS5CGGvlOBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393917891206-7bvpqdqi0pl6bgmrlfpslv7p26hbfl40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393917891206-08lae88cq8rdovr7dj77vn6efv8p8e13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.luvitAssesment"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393917891206:android:ec177526fa08ac3b830707",
+        "android_client_info": {
+          "package_name": "com.example.luvit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393917891206-7bvpqdqi0pl6bgmrlfpslv7p26hbfl40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJdC4if018qA1dCZKYu4XxTS5CGGvlOBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393917891206-7bvpqdqi0pl6bgmrlfpslv7p26hbfl40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393917891206-08lae88cq8rdovr7dj77vn6efv8p8e13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.luvitAssesment"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393917891206:android:0db6281887c78edc830707",
+        "android_client_info": {
+          "package_name": "com.hyperhire.in.dating.app.assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393917891206-7bvpqdqi0pl6bgmrlfpslv7p26hbfl40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJdC4if018qA1dCZKYu4XxTS5CGGvlOBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393917891206-7bvpqdqi0pl6bgmrlfpslv7p26hbfl40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393917891206-08lae88cq8rdovr7dj77vn6efv8p8e13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.luvitAssesment"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393917891206:android:63369a75b7f55bd6830707",
+        "android_client_info": {
+          "package_name": "com.javeedishaq.luvit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393917891206-7bvpqdqi0pl6bgmrlfpslv7p26hbfl40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJdC4if018qA1dCZKYu4XxTS5CGGvlOBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393917891206-7bvpqdqi0pl6bgmrlfpslv7p26hbfl40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393917891206-08lae88cq8rdovr7dj77vn6efv8p8e13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.luvitAssesment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
